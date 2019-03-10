@@ -9,10 +9,10 @@ So that i am share this project screenshorts
 					<img src="https://github.com/bellalhrbubt/exam_helper_demo/blob/master/img/Screenshot_20190301-092105.png?raw=true"                       height="400px" width="200px"/>
 				</td>
 				<td>
-					<img src="https://github.com/bellalhrbubt/ERP_Dashboard/blob/master/img/Screenshot_2019-02-22-14-52-11.png?raw=true"                       height="400px" width="200px"/>
+					<img src="https://github.com/bellalhrbubt/exam_helper_demo/blob/master/img/Screenshot_20190301-092131.png?raw=true"                       height="400px" width="200px"/>
 				</td>
 				<td>
-					<img src="https://github.com/bellalhrbubt/ERP_Dashboard/blob/master/img/Screenshot_2019-02-22-14-52-27.png?raw=true"                       height="400px" width="200px"/>
+					<img src="https://github.com/bellalhrbubt/exam_helper_demo/blob/master/img/Screenshot_20190301-092145.png?raw=true"                       height="400px" width="200px"/>
 				</td>
 			</tr>
 			<tr>
