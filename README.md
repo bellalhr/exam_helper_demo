@@ -1,4 +1,4 @@
-This is ERP-Dashboard application develop for max group bd . https://www.maxgroup-bd.com/
+This is ExamHelper android and web base  application for help to easily test for a students. It can be help the teacher for maked a questions and events .Teachers controll her event .
 We don't have to share project code for security reasons 
 So that i am share this project screenshorts 
 <html>
