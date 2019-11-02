@@ -7,10 +7,10 @@ So that i am share this project screenshorts
 		<table width="200px">
 			<tr>
 				<td>
-					<img src="https://github.com/bellalhrbubt/exam_helper_demo/blob/master/img/Screenshot_20190301-091852.png?raw=true"                       height="400px" width="200px"/>
+					<img src="img/Screenshot_20190301-091852.png"                       height="400px" width="200px"/>
 				</td>
 				<td>
-					<img src="img/Screenshot_20190301-091852.png"                       height="400px" width="200px"/>
+					<img src="img/Screenshot_20190301-092105.pngg"                       height="400px" width="200px"/>
 				</td>
 				<td>
 					<img src="https://github.com/bellalhrbubt/ERP_Dashboard/blob/master/img/Screenshot_2019-02-22-14-52-27.png?raw=true"                       height="400px" width="200px"/>
