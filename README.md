@@ -13,18 +13,18 @@ So that i am share this project screenshorts
 					<img src="img/Screenshot_20190301-092105.png"                       height="400px" width="200px"/>
 				</td>
 				<td>
-					<img src="https://github.com/bellalhrbubt/ERP_Dashboard/blob/master/img/Screenshot_2019-02-22-14-52-27.png?raw=true"                       height="400px" width="200px"/>
+					<img src="img/Screenshot_20190301-092131.png"                       height="400px" width="200px"/>
 				</td>
 			</tr>
 			<tr>
 				<td>
-					<img src="https://github.com/bellalhrbubt/ERP_Dashboard/blob/master/img/Screenshot_2019-02-22-14-52-41.png?raw=true"                       height="400px" width="200px"/>
+					<img src="img/Screenshot_20190301-092145.png"                       height="400px" width="200px"/>
 				</td>
 				<td>
-					<img src="https://github.com/bellalhrbubt/ERP_Dashboard/blob/master/img/Screenshot_2019-02-22-14-52-52.png?raw=true"                       height="400px" width="200px"/>
+					<img src="img/Screenshot_20190301-092148.png"                       height="400px" width="200px"/>
 				</td>
 				<td>
-					<img src="https://github.com/bellalhrbubt/ERP_Dashboard/blob/master/img/Screenshot_2019-02-22-14-52-58.png?raw=true"                       height="400px" width="200px"/>
+					<img src="img/Screenshot_20190301-092201.png"                       height="400px" width="200px"/>
 				</td>
 			</tr>
 		</table>
